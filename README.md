@@ -1,11 +1,12 @@
 ## Welcome
+Jiashuo Zhang, a graduate student at Soochow University nlp lab.
 
-### Research field
-Image captioning
+### Research
+Image captioning, which generates a sentence to describe an image.                            
 
 ### Papers
-图像标题生成中的人物类名实体填充方法研究  
-基于双向注意力机制的图像描述生成
+Research on Filling for Person Names in Image Captioning   
+Image Captioning based on Bidirectional Attention Mechanism
 
 ### contact
 jiasurezhang@gmail.com
