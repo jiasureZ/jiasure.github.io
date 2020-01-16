@@ -1,5 +1,4 @@
-## Welcome
-![avatar](https://github.com/jiasureZ/jiasure.github.io/blob/master/%E8%AF%81%E4%BB%B6%E7%85%A7.jpg)   
+## Welcome   
 Jiashuo Zhang, a graduate student at Soochow University nlp lab.
 
 ### Research
