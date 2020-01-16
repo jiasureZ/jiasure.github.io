@@ -1,7 +1,7 @@
 ## Welcome
 
 ### Research field
-Image captioning
+Image captioning                            ![avatar](https://github.com/jiasureZ/jiasure.github.io/blob/master/%E5%B0%84%E7%AE%AD.jpg)
 
 ### Papers
 图像标题生成中的人物类名实体填充方法研究  
